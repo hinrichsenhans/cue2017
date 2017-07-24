@@ -1,5 +1,5 @@
-﻿1, 127.0.0.1, 3032, 8001, 1, 0, 100
-0, 413, 294, 244, 404, 0, 1, 3, 5, Buttons, , ff282828, 0
+﻿1, 10.101.92.101, 3032, 8001, 1, 0, 100
+0, 1478, 337, 244, 404, 0, 1, 3, 5, Buttons, , ff282828, 0
 1, /eos/sc/game_intro, , , , INTRO, , ff00557f, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/game_start, , , , START, , ff005500, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/game_win, , , , STOP/WIN, , ff550000, ffc8c8c8, 0, 1, 0, 1, 
@@ -7,7 +7,7 @@
 1, /eos/sc/game_pause, , , , PAUSE, , ff55007f, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/player2_plus1, , , , P2 +1, , ff3c3c3c, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/player1_minus1, , , , P1 -1, , ff3c3c3c, ffc8c8c8, 0, 1, 0, 1, 
-1, /eos/sc/game_resume, , , , RESUME, , ff55007f, ffc8c8c8, 0, 1, 0, 1, 
+1, /eos/sc/game_reset, , , , RESET, , ff55007f, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/player2_minus1, , , , P2 -1, , ff3c3c3c, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/sfx_1, , , , SFX1, , ffff5500, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/sfx_2, , , , SFX2, , ffff5500, ffc8c8c8, 0, 1, 0, 1, 
@@ -15,3 +15,12 @@
 1, /eos/sc/sfx_4, , , , SFX4, , ffff5500, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/sfx_5, , , , SFX5, , ffff5500, ffc8c8c8, 0, 1, 0, 1, 
 1, /eos/sc/sfx_6, , , , SFX6, , ffff5500, ffc8c8c8, 0, 1, 0, 1, 
+1, 481, 325, 404, 114, 0, 0, 5, 1, Pedals, , ff282828, 0
+1, /pedal/1, , , , 1, , ff3c3c3c, ffc8c8c8, 0, 1, 250, 1000, 
+1, /pedal/2, , , , 2, , ff3c3c3c, ffc8c8c8, 0, 1, 250, 1000, 
+1, /pedal/3, , , , 3, , ff3c3c3c, ffc8c8c8, 0, 1, 250, 1000, 
+1, /pedal/4, , , , 4, , ff3c3c3c, ffc8c8c8, 0, 1, 250, 1000, 
+1, /pedal/5, , , , 5, , ff3c3c3c, ffc8c8c8, 0, 1, 250, 1000, 
+0, 1395, 52, 340, 194, 0, 1, 2, 1, Buttons, , ff282828, 0
+1, /eos/sc/disable_all, , , , DISABLE ALL, , ff550000, ffc8c8c8, 0, 1, 0, 1, 
+1, /eos/sc/enable_all, , , , ENABLE ALL, , ff005500, ffc8c8c8, 0, 1, 0, 1, 
